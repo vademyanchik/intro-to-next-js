@@ -1,0 +1,17 @@
+{
+  "name": "intro-to-next-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vademyanchik/intro-to-next-js.git",
+  "author": "vademyanchik <vadim.demyanchik@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "isomorphic-unfetch": "^2.0.0",
+    "next": "^4.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
